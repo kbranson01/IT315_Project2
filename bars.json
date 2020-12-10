@@ -1,0 +1,20 @@
+{
+  "Bars":
+  [
+    {"BarName":"Fat Tuesday","BarDescription":"Fat Tuesday offers a great assortment of fun food items to complement the featured frozen specialty drinks.","BarRating":"3.5/5","BarLocation":"10673 Braddock Rd, Fairfax, VA, 22032","BarHappyHour":"3PM-7PM","BarHours": "3PM-2AM","BarImage":"Picture Fats","BarSite":"https://fattuesday.com/"},
+
+{"BarName":"PJ Skidoos","BarDescription":"In a large brick building, this spot offers classic american fare and a lively nightime bar scene with new deals on drinks every night","BarRating":"4.2/5","BarLocation":"9908 Fairfax Blvd, Fairfax, VA 22030","BarHappyHour":"4PM-8PM","BarHours": "12PM-2AM","BarImage":"Picture Skidoos","BarSite":"https://www.pjskidoos.com/"},
+
+{"BarName":"Primetime Sports Bar & Grille","BarDescription":"Modern sports bar with many flat-screen, a long menu of american standards & Sunday brunch as well as great deals on food & drinks.","BarRating":"4.1/5","BarLocation":"11250 James Swart Cir, Fairfax, VA 22030","BarHappyHour":"4PM-8PM","BarHours": "12PM-2AM","BarImage":"Picture Primetime","BarSite":"https://www.primetimesportsandgrill.com/"},
+
+{"BarName":"Blue Iguana","BarDescription":"Casual Mew American dining & full bar with theme nights including poker, karaoke & DJ with dancing","BarRating":"4.3/5","BarLocation":"12727 Shoppes Ln, Fairfax, VA 22033","BarHappyHour":"5PM-8PM","BarHours":"11:30PM-2AM","BarImage":"Picture Iguana","BarSite":"11:30PM-2AM"},
+
+{"BarName":"Patriots Pub & Grill","BarDescription":"Homey roadhouse bar that brings in regulars with beer pithcers, karaoke nights & TV airing sports.","BarRating":"4.4/5","BarLocation":"10560 Main St, Fairfax, VA 22030","BarHappyHour":"3:30PM-6PM","BarHours": "12PM-9PM","BarImage":"Picture Patriot","BarSite":"https://patriotspubandgrill.com/"},
+
+{"BarName":"The Auld Shebeen","BarDescription":"Irish pub & local student hangout featuring multiple rooms, live music & a basement dance floor","BarRating":"4.5/5","BarLocation":"3971 Chain Bridge Rd, Fairfax, VA 22030","BarHappyHour":"5PM-6PM","BarHours": "11AM-9PM","BarImage":"Picture Auld","BarSite":"http://theauldshebeenva.com/"},
+
+{"BarName":"Buffalo Wild Wings","BarDescription":"Lively sport-bar chain dishing up wings & other American pub grub amid lots of large-screen TVs","BarRating":"3.8/5","BarLocation":"11204 James Swart Cir, Fairfax, VA 22030","BarHappyHour":"5PM-7PM","BarHours": "11AM-12AM","BarImage":"Picture Wings","BarSite":"https://www.buffalowildwings.com/"}
+
+  ],
+  "Status":"OK"
+}
